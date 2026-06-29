@@ -1,0 +1,14 @@
+{
+  "name": "vpn-client",
+  "version": "1.0.0",
+  "homepage": "https://bxbzzbbbm-cmyk.github.io/sturdy-octo-happiness",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
