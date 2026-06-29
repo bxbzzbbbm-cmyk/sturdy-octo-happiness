@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sturdy-octo-happiness/static/css/main.32a67a0b.css",
+    "main.js": "/sturdy-octo-happiness/static/js/main.079923d2.js",
+    "index.html": "/sturdy-octo-happiness/index.html",
+    "main.32a67a0b.css.map": "/sturdy-octo-happiness/static/css/main.32a67a0b.css.map",
+    "main.079923d2.js.map": "/sturdy-octo-happiness/static/js/main.079923d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a67a0b.css",
+    "static/js/main.079923d2.js"
+  ]
+}
